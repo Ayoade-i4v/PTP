@@ -15,8 +15,8 @@ export const Footer = () => {
                     </Col>
                     <Col sm={6} className="text-center text-sm-end">
                     <div className="social-icon">
-                        <a href=""><img src={navIcon1} /></a>
-                        <a href=""><img src={navIcon2} /></a>
+                        <a href="https://www.linkedin.com/in/chukwuemeka-victor-udeze-185ab6267/"><img src={navIcon1} /></a>
+                        <a href="https://www.facebook.com/profile.php?id=61567100144696"><img src={navIcon2} /></a>
                         <a href=""><img src={navIcon3} /></a>
                     </div>
                     <p>CopyRight 2077cyberpunk!. All rights reserved to Acyoade Group!</p>
